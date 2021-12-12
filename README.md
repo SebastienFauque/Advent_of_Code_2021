@@ -1,1 +1,4 @@
-# Advent_of_Code_2021
+# A festive December programming challenge
+
+Check it out:
+https://adventofcode.com/2021
